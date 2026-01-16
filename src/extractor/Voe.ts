@@ -114,6 +114,8 @@ export class Voe extends Extractor {
         'walterprettytheir.com',
         'wolfdyslectic.com',
         'yodelswartlike.com',
+        'lauradaydo.com',
+        'smoki.cc',
       ].includes(url.host);
 
     return supportedDomain && supportsMediaFlowProxy(ctx);
